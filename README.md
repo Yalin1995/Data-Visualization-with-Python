@@ -6,3 +6,5 @@ By Kirthi Raman <br>
 October 2015
 
 ## Notebooks
+### Chapter 1
+* [Vistualization plots] (https://yalin1995.github.io/Pattern-Analysis-With-Python/notebooks/Vistualization plots.ipynb)
