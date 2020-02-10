@@ -7,4 +7,4 @@ October 2015
 
 ## Notebooks
 ### Chapter 1
-* [Vistualization plots](https://yalin1995.github.io/Pattern-Analysis-With-Python/notebooks/VistualizationPlots.html)
+* [Vistualization plots](https://yalin1995.github.io/Data-Visualization-with-Python/notebooks/VistualizationPlots.html)
